@@ -9,3 +9,8 @@ To use virtual environment with jupyter notebooks you need to:
 5. install kernel `python -m ipykernel install --name DataScience`
 6. launch jupyter notebook `jupyter-notebook`
 7. after you are done - deactivate environment `deactivate`
+
+## Resources
+
+- [MIT Deep Learning](https://github.com/lexfridman/mit-deep-learning)
+- [SuperDataScience](https://www.superdatascience.com)
