@@ -14,3 +14,4 @@ To use virtual environment with jupyter notebooks you need to:
 
 - [MIT Deep Learning](https://github.com/lexfridman/mit-deep-learning)
 - [SuperDataScience](https://www.superdatascience.com)
+- [Kaggle](https://www.kaggle.com/)
