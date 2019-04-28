@@ -1,5 +1,7 @@
 numpy
+scipy
 pandas
+pandas_profiling
 matplotlib
 seaborn
 scikit-learn
@@ -9,3 +11,4 @@ jupyter
 tensorflow
 tensorboard
 keras
+statsmodels
