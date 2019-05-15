@@ -12,6 +12,3 @@ from the sensor values collected from various parts of the engine?
 ## Resources
 
 - [Predictive Maintenance Solution](http://glitterpointcorp.com/predictive-maintenance-solution-aircraft-engine-monitoring-for-predictive-maintenance-in-aerospace/)
-
-https://www.reliableplant.com/Read/19701/data-analysis-predictive-maintenance
-https://blog.revolutionanalytics.com/2016/05/predictive-maintenance-r-code.html
